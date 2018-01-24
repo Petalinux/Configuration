@@ -7,7 +7,7 @@ LD_SRCS += \
 ../src/lscript.ld 
 
 C_SRCS += \
-/scratch/xbrbbot/yocto/2017.2/bsps/pm/xilinx-zcu102-2017.2/components/plnx_workspace/fsbl_hwproj/psu_init.c \
+/home/ykiveish/workspace/petabuilds/xilinx-zcu102-2017.2/components/plnx_workspace/fsbl_hwproj/psu_init.c \
 ../src/xfsbl_authentication.c \
 ../src/xfsbl_board.c \
 ../src/xfsbl_bs.c \
@@ -84,24 +84,24 @@ C_DEPS += \
 
 
 # Each subdirectory must supply rules for building sources it contributes
-src/psu_init.o: /scratch/xbrbbot/yocto/2017.2/bsps/pm/xilinx-zcu102-2017.2/components/plnx_workspace/fsbl_hwproj/psu_init.c
+src/psu_init.o: /home/ykiveish/workspace/petabuilds/xilinx-zcu102-2017.2/components/plnx_workspace/fsbl_hwproj/psu_init.c
 	@echo 'Building file: $<'
 	@echo 'Invoking: ARM A53 gcc compiler'
-	aarch64-none-elf-gcc -DARMA53_64 -Wall -O2 -I"/scratch/xbrbbot/yocto/2017.2/bsps/pm/xilinx-zcu102-2017.2/components/plnx_workspace/fsbl_hwproj" -c -fmessage-length=0 -MT"$@" -Os -flto -ffat-lto-objects -DXPS_BOARD_ZCU102 -I../../fsbl_bsp/psu_cortexa53_0/include -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -o "$@" "$<"
+	aarch64-none-elf-gcc -DARMA53_64 -Wall -O2 -I"/home/ykiveish/workspace/petabuilds/xilinx-zcu102-2017.2/components/plnx_workspace/fsbl_hwproj" -c -fmessage-length=0 -MT"$@" -Os -flto -ffat-lto-objects -DXPS_BOARD_ZCU102 -DXPS_BOARD_ZCU102 -I../../fsbl_bsp/psu_cortexa53_0/include -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -o "$@" "$<"
 	@echo 'Finished building: $<'
 	@echo ' '
 
 src/%.o: ../src/%.c
 	@echo 'Building file: $<'
 	@echo 'Invoking: ARM A53 gcc compiler'
-	aarch64-none-elf-gcc -DARMA53_64 -Wall -O2 -I"/scratch/xbrbbot/yocto/2017.2/bsps/pm/xilinx-zcu102-2017.2/components/plnx_workspace/fsbl_hwproj" -c -fmessage-length=0 -MT"$@" -Os -flto -ffat-lto-objects -DXPS_BOARD_ZCU102 -I../../fsbl_bsp/psu_cortexa53_0/include -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -o "$@" "$<"
+	aarch64-none-elf-gcc -DARMA53_64 -Wall -O2 -I"/home/ykiveish/workspace/petabuilds/xilinx-zcu102-2017.2/components/plnx_workspace/fsbl_hwproj" -c -fmessage-length=0 -MT"$@" -Os -flto -ffat-lto-objects -DXPS_BOARD_ZCU102 -DXPS_BOARD_ZCU102 -I../../fsbl_bsp/psu_cortexa53_0/include -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -o "$@" "$<"
 	@echo 'Finished building: $<'
 	@echo ' '
 
 src/%.o: ../src/%.S
 	@echo 'Building file: $<'
 	@echo 'Invoking: ARM A53 gcc compiler'
-	aarch64-none-elf-gcc -DARMA53_64 -Wall -O2 -I"/scratch/xbrbbot/yocto/2017.2/bsps/pm/xilinx-zcu102-2017.2/components/plnx_workspace/fsbl_hwproj" -c -fmessage-length=0 -MT"$@" -Os -flto -ffat-lto-objects -DXPS_BOARD_ZCU102 -I../../fsbl_bsp/psu_cortexa53_0/include -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -o "$@" "$<"
+	aarch64-none-elf-gcc -DARMA53_64 -Wall -O2 -I"/home/ykiveish/workspace/petabuilds/xilinx-zcu102-2017.2/components/plnx_workspace/fsbl_hwproj" -c -fmessage-length=0 -MT"$@" -Os -flto -ffat-lto-objects -DXPS_BOARD_ZCU102 -DXPS_BOARD_ZCU102 -I../../fsbl_bsp/psu_cortexa53_0/include -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -o "$@" "$<"
 	@echo 'Finished building: $<'
 	@echo ' '
 

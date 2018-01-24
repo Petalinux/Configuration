@@ -1,5 +1,5 @@
 src/psu_init.o src/psu_init.o: \
- /scratch/xbrbbot/yocto/2017.2/bsps/pm/xilinx-zcu102-2017.2/components/plnx_workspace/fsbl_hwproj/psu_init.c \
+ /home/ykiveish/workspace/petabuilds/xilinx-zcu102-2017.2/components/plnx_workspace/fsbl_hwproj/psu_init.c \
  ../../fsbl_bsp/psu_cortexa53_0/include/xil_io.h \
  ../../fsbl_bsp/psu_cortexa53_0/include/xil_types.h \
  ../../fsbl_bsp/psu_cortexa53_0/include/xil_printf.h \
@@ -10,7 +10,7 @@ src/psu_init.o src/psu_init.o: \
  ../../fsbl_bsp/psu_cortexa53_0/include/xpseudo_asm_gcc.h \
  ../../fsbl_bsp/psu_cortexa53_0/include/sleep.h \
  ../../fsbl_bsp/psu_cortexa53_0/include/xil_io.h \
- /scratch/xbrbbot/yocto/2017.2/bsps/pm/xilinx-zcu102-2017.2/components/plnx_workspace/fsbl_hwproj/psu_init.h
+ /home/ykiveish/workspace/petabuilds/xilinx-zcu102-2017.2/components/plnx_workspace/fsbl_hwproj/psu_init.h
 
 ../../fsbl_bsp/psu_cortexa53_0/include/xil_io.h:
 
@@ -32,4 +32,4 @@ src/psu_init.o src/psu_init.o: \
 
 ../../fsbl_bsp/psu_cortexa53_0/include/xil_io.h:
 
-/scratch/xbrbbot/yocto/2017.2/bsps/pm/xilinx-zcu102-2017.2/components/plnx_workspace/fsbl_hwproj/psu_init.h:
+/home/ykiveish/workspace/petabuilds/xilinx-zcu102-2017.2/components/plnx_workspace/fsbl_hwproj/psu_init.h:

@@ -34,7 +34,7 @@ src/xfsbl_partition_load.o src/xfsbl_partition_load.o: \
  ../../fsbl_bsp/psu_cortexa53_0/include/xsecure_aes.h \
  ../../fsbl_bsp/psu_cortexa53_0/include/xcsudma.h ../src/xfsbl_bs.h \
  ../src/xfsbl_csu_dma.h \
- /scratch/xbrbbot/yocto/2017.2/bsps/pm/xilinx-zcu102-2017.2/components/plnx_workspace/fsbl_hwproj/psu_init.h \
+ /home/ykiveish/workspace/petabuilds/xilinx-zcu102-2017.2/components/plnx_workspace/fsbl_hwproj/psu_init.h \
  ../src/xfsbl_plpartition_valid.h
 
 ../../fsbl_bsp/psu_cortexa53_0/include/xil_cache.h:
@@ -119,6 +119,6 @@ src/xfsbl_partition_load.o src/xfsbl_partition_load.o: \
 
 ../src/xfsbl_csu_dma.h:
 
-/scratch/xbrbbot/yocto/2017.2/bsps/pm/xilinx-zcu102-2017.2/components/plnx_workspace/fsbl_hwproj/psu_init.h:
+/home/ykiveish/workspace/petabuilds/xilinx-zcu102-2017.2/components/plnx_workspace/fsbl_hwproj/psu_init.h:
 
 ../src/xfsbl_plpartition_valid.h:

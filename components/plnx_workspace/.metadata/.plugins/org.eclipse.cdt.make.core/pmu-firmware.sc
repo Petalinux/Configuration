@@ -2,6 +2,10 @@
 <?scdStore version="2"?><scannerInfo id="org.eclipse.cdt.make.core.discoveredScannerInfo">
 <instance id="xilinx.gnu.mb.exe.debug.993389942;xilinx.gnu.mb.exe.debug.993389942.">
 <collector id="org.eclipse.cdt.make.core.PerProjectSICollector">
+<includePath path="/home/ykiveish/workspace/petalinux/tools/linux-i386/microblaze-xilinx-elf/bin/../lib/gcc/microblaze-xilinx-elf/6.2.0/include"/>
+<includePath path="/home/ykiveish/workspace/petalinux/tools/linux-i386/microblaze-xilinx-elf/bin/../lib/gcc/microblaze-xilinx-elf/6.2.0/include-fixed"/>
+<includePath path="/home/ykiveish/workspace/petalinux/tools/linux-i386/microblaze-xilinx-elf/bin/../lib/gcc/microblaze-xilinx-elf/6.2.0/../../../../microblaze-xilinx-elf/include"/>
+<includePath path="/home/ykiveish/workspace/petalinux/tools/linux-i386/microblaze-xilinx-elf/bin/../microblaze-xilinx-elf/sysroot/usr/include"/>
 <includePath path="/proj/petalinux/petalinux-v2017.2_0619_1/petalinux-v2017.2-final/tools/linux-i386/microblaze-xilinx-elf/bin/../lib/gcc/microblaze-xilinx-elf/6.2.0/include"/>
 <includePath path="/proj/petalinux/petalinux-v2017.2_0619_1/petalinux-v2017.2-final/tools/linux-i386/microblaze-xilinx-elf/bin/../lib/gcc/microblaze-xilinx-elf/6.2.0/include-fixed"/>
 <includePath path="/proj/petalinux/petalinux-v2017.2_0619_1/petalinux-v2017.2-final/tools/linux-i386/microblaze-xilinx-elf/bin/../lib/gcc/microblaze-xilinx-elf/6.2.0/../../../../microblaze-xilinx-elf/include"/>
@@ -446,6 +450,10 @@
 </instance>
 <instance id="xilinx.gnu.mb.exe.debug.993389942;xilinx.gnu.mb.exe.debug.993389942.;xilinx.gnu.mb.c.toolchain.compiler.debug.477681656;xilinx.gnu.compiler.input.648399774">
 <collector id="org.eclipse.cdt.make.core.PerProjectSICollector">
+<includePath path="/home/ykiveish/workspace/petalinux/tools/linux-i386/microblaze-xilinx-elf/bin/../lib/gcc/microblaze-xilinx-elf/6.2.0/include"/>
+<includePath path="/home/ykiveish/workspace/petalinux/tools/linux-i386/microblaze-xilinx-elf/bin/../lib/gcc/microblaze-xilinx-elf/6.2.0/include-fixed"/>
+<includePath path="/home/ykiveish/workspace/petalinux/tools/linux-i386/microblaze-xilinx-elf/bin/../lib/gcc/microblaze-xilinx-elf/6.2.0/../../../../microblaze-xilinx-elf/include"/>
+<includePath path="/home/ykiveish/workspace/petalinux/tools/linux-i386/microblaze-xilinx-elf/bin/../microblaze-xilinx-elf/sysroot/usr/include"/>
 <includePath path="/proj/petalinux/petalinux-v2017.2_0619_1/petalinux-v2017.2-final/tools/linux-i386/microblaze-xilinx-elf/bin/../lib/gcc/microblaze-xilinx-elf/6.2.0/include"/>
 <includePath path="/proj/petalinux/petalinux-v2017.2_0619_1/petalinux-v2017.2-final/tools/linux-i386/microblaze-xilinx-elf/bin/../lib/gcc/microblaze-xilinx-elf/6.2.0/include-fixed"/>
 <includePath path="/proj/petalinux/petalinux-v2017.2_0619_1/petalinux-v2017.2-final/tools/linux-i386/microblaze-xilinx-elf/bin/../lib/gcc/microblaze-xilinx-elf/6.2.0/../../../../microblaze-xilinx-elf/include"/>

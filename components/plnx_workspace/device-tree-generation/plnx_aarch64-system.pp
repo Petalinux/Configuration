@@ -1,6 +1,7 @@
-# 1 "/scratch/xbrbbot/yocto/2017.2/bsps/pm/xilinx-zcu102-2017.2/build/../components/plnx_workspace/device-tree-generation/system-top.dts"
+# 1 "/home/ykiveish/workspace/petabuilds/xilinx-zcu102-2017.2/build/../components/plnx_workspace/device-tree-generation/system-top.dts"
+# 1 "<built-in>"
 # 1 "<command-line>"
-# 1 "/scratch/xbrbbot/yocto/2017.2/bsps/pm/xilinx-zcu102-2017.2/build/../components/plnx_workspace/device-tree-generation/system-top.dts"
+# 1 "/home/ykiveish/workspace/petabuilds/xilinx-zcu102-2017.2/build/../components/plnx_workspace/device-tree-generation/system-top.dts"
 
 
 
@@ -32,8 +33,8 @@
  cpus {
  };
 };
-# 1 "/scratch/xbrbbot/yocto/2017.2/bsps/pm/xilinx-zcu102-2017.2/build/tmp/work/plnx_aarch64-xilinx-linux/device-tree-generation/xilinx+gitAUTOINC+43551819a1-r0/system-user.dtsi" 1
+# 1 "/home/ykiveish/workspace/petabuilds/xilinx-zcu102-2017.2/build/tmp/work/plnx_aarch64-xilinx-linux/device-tree-generation/xilinx+gitAUTOINC+43551819a1-r0/system-user.dtsi" 1
 /include/ "system-conf.dtsi"
 / {
 };
-# 32 "/scratch/xbrbbot/yocto/2017.2/bsps/pm/xilinx-zcu102-2017.2/build/../components/plnx_workspace/device-tree-generation/system-top.dts" 2
+# 32 "/home/ykiveish/workspace/petabuilds/xilinx-zcu102-2017.2/build/../components/plnx_workspace/device-tree-generation/system-top.dts" 2

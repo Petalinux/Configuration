@@ -14,7 +14,7 @@ src/xfsbl_hooks.o src/xfsbl_hooks.o: ../src/xfsbl_hooks.c \
  ../src/xfsbl_debug.h ../../fsbl_bsp/psu_cortexa53_0/include/xil_printf.h \
  ../src/xfsbl_error.h ../src/xfsbl_hooks.h ../src/xfsbl_misc.h \
  ../../fsbl_bsp/psu_cortexa53_0/include/xil_exception.h \
- /scratch/xbrbbot/yocto/2017.2/bsps/pm/xilinx-zcu102-2017.2/components/plnx_workspace/fsbl_hwproj/psu_init.h
+ /home/ykiveish/workspace/petabuilds/xilinx-zcu102-2017.2/components/plnx_workspace/fsbl_hwproj/psu_init.h
 
 ../src/xfsbl_hw.h:
 
@@ -56,4 +56,4 @@ src/xfsbl_hooks.o src/xfsbl_hooks.o: ../src/xfsbl_hooks.c \
 
 ../../fsbl_bsp/psu_cortexa53_0/include/xil_exception.h:
 
-/scratch/xbrbbot/yocto/2017.2/bsps/pm/xilinx-zcu102-2017.2/components/plnx_workspace/fsbl_hwproj/psu_init.h:
+/home/ykiveish/workspace/petabuilds/xilinx-zcu102-2017.2/components/plnx_workspace/fsbl_hwproj/psu_init.h:

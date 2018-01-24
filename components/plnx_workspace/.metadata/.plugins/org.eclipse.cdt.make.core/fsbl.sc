@@ -2,6 +2,10 @@
 <?scdStore version="2"?><scannerInfo id="org.eclipse.cdt.make.core.discoveredScannerInfo">
 <instance id="xilinx.gnu.arm.a53.exe.debug.1020018583;xilinx.gnu.arm.a53.exe.debug.1020018583.">
 <collector id="org.eclipse.cdt.make.core.PerProjectSICollector">
+<includePath path="/home/ykiveish/workspace/petalinux/tools/linux-i386/aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/6.2.1/include"/>
+<includePath path="/home/ykiveish/workspace/petalinux/tools/linux-i386/aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/6.2.1/include-fixed"/>
+<includePath path="/home/ykiveish/workspace/petalinux/tools/linux-i386/aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/6.2.1/../../../../aarch64-none-elf/include"/>
+<includePath path="/home/ykiveish/workspace/petalinux/tools/linux-i386/aarch64-none-elf/bin/../aarch64-none-elf/libc/usr/include"/>
 <includePath path="/proj/petalinux/petalinux-v2017.2_0619_1/petalinux-v2017.2-final/tools/linux-i386/aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/6.2.1/include"/>
 <includePath path="/proj/petalinux/petalinux-v2017.2_0619_1/petalinux-v2017.2-final/tools/linux-i386/aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/6.2.1/include-fixed"/>
 <includePath path="/proj/petalinux/petalinux-v2017.2_0619_1/petalinux-v2017.2-final/tools/linux-i386/aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/6.2.1/../../../../aarch64-none-elf/include"/>
@@ -504,6 +508,10 @@
 </instance>
 <instance id="xilinx.gnu.arm.a53.exe.debug.1020018583;xilinx.gnu.arm.a53.exe.debug.1020018583.;xilinx.gnu.arm.a53.c.toolchain.compiler.debug.1217199211;xilinx.gnu.arm.a53.c.compiler.input.561717322">
 <collector id="org.eclipse.cdt.make.core.PerProjectSICollector">
+<includePath path="/home/ykiveish/workspace/petalinux/tools/linux-i386/aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/6.2.1/include"/>
+<includePath path="/home/ykiveish/workspace/petalinux/tools/linux-i386/aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/6.2.1/include-fixed"/>
+<includePath path="/home/ykiveish/workspace/petalinux/tools/linux-i386/aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/6.2.1/../../../../aarch64-none-elf/include"/>
+<includePath path="/home/ykiveish/workspace/petalinux/tools/linux-i386/aarch64-none-elf/bin/../aarch64-none-elf/libc/usr/include"/>
 <includePath path="/proj/petalinux/petalinux-v2017.2_0619_1/petalinux-v2017.2-final/tools/linux-i386/aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/6.2.1/include"/>
 <includePath path="/proj/petalinux/petalinux-v2017.2_0619_1/petalinux-v2017.2-final/tools/linux-i386/aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/6.2.1/include-fixed"/>
 <includePath path="/proj/petalinux/petalinux-v2017.2_0619_1/petalinux-v2017.2-final/tools/linux-i386/aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/6.2.1/../../../../aarch64-none-elf/include"/>

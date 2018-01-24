@@ -60,7 +60,7 @@
 #define CONFIG_NET_MULTI
 #define CONFIG_BOOTP_MAY_FAIL
 #define CONFIG_NETCONSOLE	1
-#define CONFIG_SERVERIP	172.25.136.177
+#define CONFIG_SERVERIP	10.0.0.12
 #define CONFIG_IPADDR
 
 /* spi_flash - psu_qspi_0 */

@@ -112,7 +112,7 @@
 									<listOptionValue builtIn="false" value="../../fsbl_bsp/psu_cortexa53_0/include"/>
 								</option>
 								<option id="xilinx.gnu.compiler.inferred.swplatform.flags.2143541204" superClass="xilinx.gnu.compiler.inferred.swplatform.flags" value="   " valueType="string"/>
-								<option id="xilinx.gnu.compiler.misc.other.1672493939" superClass="xilinx.gnu.compiler.misc.other" value="-c -fmessage-length=0 -MT&quot;$@&quot; -Os -flto -ffat-lto-objects -DXPS_BOARD_ZCU102" valueType="string"/>
+								<option id="xilinx.gnu.compiler.misc.other.1672493939" superClass="xilinx.gnu.compiler.misc.other" value="-c -fmessage-length=0 -MT&quot;$@&quot; -Os -flto -ffat-lto-objects -DXPS_BOARD_ZCU102 -DXPS_BOARD_ZCU102" valueType="string"/>
 								<option id="xilinx.gnu.compiler.symbols.defined.1208916205" superClass="xilinx.gnu.compiler.symbols.defined" valueType="definedSymbols">
 									<listOptionValue builtIn="false" value="ARMA53_64"/>
 								</option>
@@ -187,4 +187,5 @@
 			<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId="com.xilinx.managedbuilder.ui.ARMA53GCCManagedMakePerProjectProfileC"/>
 		</scannerConfigBuildInfo>
 	</storageModule>
+	<storageModule moduleId="refreshScope"/>
 </cproject>
